@@ -1,7 +1,0 @@
-Hello Everyone!
-Hello!!!!!!!!!!
-How are you doing?
->> All is well.
-I hope you all are well.
-Yes, we all are fine.
-Testing Git Rebase.
